@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roshani Sahu
+- 👋 Hi, I’m @Roshani Mehar
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on QA
